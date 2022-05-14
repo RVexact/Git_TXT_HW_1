@@ -1,0 +1,18 @@
+SKILLS
+
+Testing                                    
+IOS                          
+Android                               
+HTTP                        
+JSON
+XML
+Postman
+JS
+Dev Tools
+Linux
+Git
+SQL
+Postgres
+Jmeter
+Scrum
+Python
