@@ -1,0 +1,4 @@
+Name-Roman Vovk Zinovievich
+Age-24
+Pets-Dina,Oscar,Luna.
+Salary-700$
